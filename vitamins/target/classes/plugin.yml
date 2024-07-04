@@ -1,0 +1,8 @@
+name: vitamins
+version: '1.0-SNAPSHOT'
+main: tes.vitamins.Vitamins
+api-version: '1.19'
+commands:
+  givevitamincompass:
+    description: 비타민 나침반을 줍니다.
+    usage: /givevitamincompass
