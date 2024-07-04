@@ -38,6 +38,7 @@
 1. 채팅창에 `/givevitamincompass` 또는 `/vitamins:givevitamincompass` 명령어를 입력하여 "비타민 보기" 철조각 아이템을 획득합니다.
 2. "비타민 보기" 철조각을 우클릭 또는 좌클릭하여 비타민 C와 비타민 D의 현재 수준을 확인합니다.
 3. 적절한 음식을 섭취하여 비타민 수준을 관리합니다.
+4. 예시 영상 (https://drive.google.com/file/d/11MXEKV8udlRPJa0O-h2lmrCY4_rB3YpN/view?usp=sharing)
 
 ## 주의사항
 
